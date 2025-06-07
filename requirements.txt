@@ -1,5 +1,4 @@
 flask
-flask-socketio
+flask_socketio
+flask-cors
 eventlet
-python-socketio
-flask-core
